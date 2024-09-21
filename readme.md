@@ -89,5 +89,3 @@ items:
 
 6.在`textures`放置你的贴图文件，名字要和Json模型中的`"textures": {"1": "<你的材质名称>"}`一致
 
-~~7.在服务器后台输入`iareload`,`iazip`指令，生成材质文件并发送到我的(Alist网盘上)[https://alist.meowlicy.cn]上，重新生成直链并复制到服务器配置文件上awa~~
-
